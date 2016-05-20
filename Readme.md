@@ -9,6 +9,7 @@
 ### 使用方法：
 
 **html代码**：
+
     <div id="jsF">
     <a href="#" title=""><img src="images/s1.jpg" alt="" /></a>
     <a href="#" title=""><img src="images/s2.jpg" alt="" /></a>
@@ -24,6 +25,7 @@
 即一个图片容器，一个页码
 
 **JS代码**：
+
     var msk = XMosaic('jsF',{pager:'pager',delay:3000,countX:10,countY:5,how:2,order:4 });
 
 ### 参数说明：
