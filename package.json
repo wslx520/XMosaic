@@ -1,0 +1,25 @@
+{
+  "name": "xmosaic",
+  "version": "1.0.0",
+  "description": "纯Javascript实现的仿Flash马赛克图片切换效果的类库",
+  "main": "XMosaic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "mosaic",
+    "picture",
+    "slider",
+    "fade",
+    "图片切换",
+    "马赛克"
+  ],
+  "author": "XLee",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
