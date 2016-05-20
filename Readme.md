@@ -2,9 +2,9 @@
 
 用来实现：将图片横竖划分成指定的几十个小块（马赛克），按指定顺序，执行指定的变换效果，并完成图片切换。
 
-来自(脚儿网)[http://jo2.org/javascript%E9%A9%AC%E8%B5%9B%E5%85%8B%E9%81%AE%E7%BD%A9%E5%9B%BE%E7%89%87%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9Cxmosaic-js/]
+来自[脚儿网](http://jo2.org/javascript%E9%A9%AC%E8%B5%9B%E5%85%8B%E9%81%AE%E7%BD%A9%E5%9B%BE%E7%89%87%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9Cxmosaic-js/)
 
-(在线预览)[http://jo2.org/htmls/xmosaic/msk.htm]（可实时切换参数查看效果）
+[在线预览](http://jo2.org/htmls/xmosaic/msk.htm)（可实时切换参数查看效果）
 
 ### 使用方法：
 
